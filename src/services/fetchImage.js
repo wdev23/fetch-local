@@ -13,7 +13,7 @@ class ImageService {
 
     async fetchAll() {
         try {
-            const url = 'http://localhost:5173/images.json'
+            const url = 'http//fetchserviceslocal.dahks.com/images.json'
             const response = await fetch(url)
             const json = await response.json()
             this.images.value = await json

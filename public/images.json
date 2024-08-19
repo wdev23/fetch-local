@@ -2,31 +2,31 @@
     {
         "id": 1,
         "title": "Gogeta",
-        "url": "http://localhost:5173/img/gogeta.jpg"
+        "url": "http//fetchserviceslocal.dahks.com/img/gogeta.jpg"
     },
     {
         "id": 2,
         "title": "Zen",
-        "url": "http://localhost:5173/img/goku_zen.jpg"
+        "url": "http//fetchserviceslocal.dahks.com/img/goku_zen.jpg"
     },
     {
         "id": 3,
         "title": "Light",
-        "url": "http://localhost:5173/img/goku_light.jpg"
+        "url": "http//fetchserviceslocal.dahks.com/img/goku_light.jpg"
     },
     {
         "id": 4,
         "title": "Casual",
-        "url": "http://localhost:5173/img/goku_casual.jpg"
+        "url": "http//fetchserviceslocal.dahks.com/img/goku_casual.jpg"
     },
     {
         "id": 5,
         "title": "Dragon Ball",
-        "url": "http://localhost:5173/img/goku_dragon.jpg"
+        "url": "http//fetchserviceslocal.dahks.com/img/goku_dragon.jpg"
     },
     {
         "id": 6,
         "title": "Meditation",
-        "url": "http://localhost:5173/img/goku_medita.jpg"
+        "url": "http//fetchserviceslocal.dahks.com/img/goku_medita.jpg"
     }
 ]
